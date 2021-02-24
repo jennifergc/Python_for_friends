@@ -1,6 +1,11 @@
 # Python_for_friends
-Repo para intercambio y colaboración en python.
 
-Repository for exchange and collaboration in Python.
+Este repositorio fue creado con el fin de aprender y enseñar Python entre amigos, sin embargo es bienvendio todo aquel que desee contribuir y aprender. El camino apenas está comenzando y los planes con fuertes para quien desee continuar. Sientete libre de usar el material que encuentres y hacer las recomendaciones que consideres necesarias.
+
+Love.
+
+Angie.
+
+
 
 
